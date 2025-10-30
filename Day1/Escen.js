@@ -18,7 +18,8 @@ function Elavtor(N){
             position =-1 ;
         }
     }
-
+  
+    
     console.log(`${N} nombre Move ${moves}`)
 }
 
